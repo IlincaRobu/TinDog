@@ -15,8 +15,8 @@ p {
 /* Headings */
 
 .big-heading{
-  /* font-family: "Montserrat-black", sans-serif;
-  font-weight: 900; */
+  font-family: "Montserrat-black", sans-serif;
+  font-weight: 900; 
   font-size: 3.5rem;
   line-height: 1.5;
 }
